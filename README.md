@@ -1,1 +1,1 @@
-# lootdeals
+# amazonquiz
